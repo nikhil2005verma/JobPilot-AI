@@ -1,0 +1,268 @@
+[
+  {
+    "source": "greenhouse",
+    "external_id": "mock-1",
+    "title": "ML Engineer Intern",
+    "company": "Northwind Labs",
+    "description": "ML Engineer Intern at Northwind Labs. Mock listing for local testing. Skills: Python, PyTorch, SQL, Machine Learning.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "SQL",
+      "Machine Learning"
+    ],
+    "location": "Bangalore",
+    "work_mode": "Hybrid",
+    "experience": "0-1 years",
+    "salary": "Rs 40k/month",
+    "posted_at": "2026-10-20",
+    "url": "https://example.com/jobs/mock-1",
+    "apply_instructions": "Apply on the company's official careers page.",
+    "_demo_match": {
+      "score": 91,
+      "matching_skills": [
+        "Python",
+        "PyTorch",
+        "SQL",
+        "Machine Learning"
+      ],
+      "missing_skills": [],
+      "eligibility_concerns": [],
+      "explanation": "Strong overlap with your core stack.",
+      "recommended_action": "Shortlist and tailor your resume"
+    }
+  },
+  {
+    "source": "lever",
+    "external_id": "mock-2",
+    "title": "AI Engineer (Fresher)",
+    "company": "Orbit Systems",
+    "description": "AI Engineer (Fresher) at Orbit Systems. Mock listing for local testing. Skills: Python, LLMs, FastAPI, Docker.",
+    "required_skills": [
+      "Python",
+      "LLMs",
+      "FastAPI",
+      "Docker"
+    ],
+    "location": "Remote",
+    "work_mode": "Remote",
+    "experience": "0-2 years",
+    "salary": null,
+    "posted_at": "2026-10-19",
+    "url": "https://example.com/jobs/mock-2",
+    "apply_instructions": "Apply on the company's official careers page.",
+    "_demo_match": {
+      "score": 84,
+      "matching_skills": [
+        "Python",
+        "FastAPI"
+      ],
+      "missing_skills": [
+        "LLMs",
+        "Docker"
+      ],
+      "eligibility_concerns": [],
+      "explanation": "Good fit; add Docker and LLM app experience.",
+      "recommended_action": "Shortlist and tailor your resume"
+    }
+  },
+  {
+    "source": "greenhouse",
+    "external_id": "mock-3",
+    "title": "Data Scientist",
+    "company": "Kestrel Analytics",
+    "description": "Data Scientist at Kestrel Analytics. Mock listing for local testing. Skills: Python, Statistics, SQL, Pandas, Tableau.",
+    "required_skills": [
+      "Python",
+      "Statistics",
+      "SQL",
+      "Pandas",
+      "Tableau"
+    ],
+    "location": "Noida",
+    "work_mode": "On-site",
+    "experience": "1-3 years",
+    "salary": "Rs 8-12 LPA",
+    "posted_at": "2026-10-17",
+    "url": "https://example.com/jobs/mock-3",
+    "apply_instructions": "Apply on the company's official careers page.",
+    "_demo_match": {
+      "score": 72,
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "Pandas"
+      ],
+      "missing_skills": [
+        "Statistics",
+        "Tableau"
+      ],
+      "eligibility_concerns": [],
+      "explanation": "Relevant, but asks for 1+ year experience.",
+      "recommended_action": "Review requirements first"
+    }
+  },
+  {
+    "source": "lever",
+    "external_id": "mock-4",
+    "title": "Backend Developer",
+    "company": "Pinecone Retail",
+    "description": "Backend Developer at Pinecone Retail. Mock listing for local testing. Skills: Java, Spring, SQL.",
+    "required_skills": [
+      "Java",
+      "Spring",
+      "SQL"
+    ],
+    "location": "Pune",
+    "work_mode": "Hybrid",
+    "experience": "2-4 years",
+    "salary": null,
+    "posted_at": "2026-10-15",
+    "url": "https://example.com/jobs/mock-4",
+    "apply_instructions": "Apply on the company's official careers page.",
+    "_demo_match": {
+      "score": 38,
+      "matching_skills": [
+        "SQL"
+      ],
+      "missing_skills": [
+        "Java",
+        "Spring"
+      ],
+      "eligibility_concerns": [],
+      "explanation": "Different stack from your profile.",
+      "recommended_action": "Review requirements first"
+    }
+  },
+  {
+    "source": "company_careers",
+    "external_id": "mock-5",
+    "title": "Machine Learning Engineer",
+    "company": "Helix Health AI",
+    "description": "Machine Learning Engineer at Helix Health AI. Mock listing for local testing. Skills: Python, PyTorch, MLOps, AWS.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "MLOps",
+      "AWS"
+    ],
+    "location": "Bangalore",
+    "work_mode": "On-site",
+    "experience": "0-2 years",
+    "salary": "Rs 10-14 LPA",
+    "posted_at": "2026-10-21",
+    "url": "https://example.com/jobs/mock-5",
+    "apply_instructions": "Apply on the company's official careers page.",
+    "_demo_match": {
+      "score": 80,
+      "matching_skills": [
+        "Python",
+        "PyTorch"
+      ],
+      "missing_skills": [
+        "MLOps",
+        "AWS"
+      ],
+      "eligibility_concerns": [],
+      "explanation": "Good role match; cloud skills missing.",
+      "recommended_action": "Shortlist and tailor your resume"
+    }
+  },
+  {
+    "source": "greenhouse",
+    "external_id": "mock-6",
+    "title": "Data Analyst",
+    "company": "Lumen Finance",
+    "description": "Data Analyst at Lumen Finance. Mock listing for local testing. Skills: SQL, Excel, Pandas, Power BI.",
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Pandas",
+      "Power BI"
+    ],
+    "location": "Remote",
+    "work_mode": "Remote",
+    "experience": "0-1 years",
+    "salary": "Rs 6-8 LPA",
+    "posted_at": "2026-10-18",
+    "url": "https://example.com/jobs/mock-6",
+    "apply_instructions": "Apply on the company's official careers page.",
+    "_demo_match": {
+      "score": 66,
+      "matching_skills": [
+        "SQL",
+        "Pandas"
+      ],
+      "missing_skills": [
+        "Excel",
+        "Power BI"
+      ],
+      "eligibility_concerns": [],
+      "explanation": "Entry-level, partial skill overlap.",
+      "recommended_action": "Review requirements first"
+    }
+  },
+  {
+    "source": "lever",
+    "external_id": "mock-7",
+    "title": "NLP Research Intern",
+    "company": "Saffron AI",
+    "description": "NLP Research Intern at Saffron AI. Mock listing for local testing. Skills: Python, PyTorch, Transformers.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Transformers"
+    ],
+    "location": "Hyderabad",
+    "work_mode": "Hybrid",
+    "experience": "Student",
+    "salary": "Stipend",
+    "posted_at": "2026-10-22",
+    "url": "https://example.com/jobs/mock-7",
+    "apply_instructions": "Apply on the company's official careers page.",
+    "_demo_match": {
+      "score": 88,
+      "matching_skills": [
+        "Python",
+        "PyTorch"
+      ],
+      "missing_skills": [
+        "Transformers"
+      ],
+      "eligibility_concerns": [],
+      "explanation": "Matches your LLM-from-scratch project.",
+      "recommended_action": "Shortlist and tailor your resume"
+    }
+  },
+  {
+    "source": "company_careers",
+    "external_id": "mock-8",
+    "title": "Full Stack Engineer",
+    "company": "Bluebird Apps",
+    "description": "Full Stack Engineer at Bluebird Apps. Mock listing for local testing. Skills: React, Node.js, TypeScript.",
+    "required_skills": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "location": "Gurugram",
+    "work_mode": "On-site",
+    "experience": "3+ years",
+    "salary": null,
+    "posted_at": "2026-10-10",
+    "url": "https://example.com/jobs/mock-8",
+    "apply_instructions": "Apply on the company's official careers page.",
+    "_demo_match": {
+      "score": 22,
+      "matching_skills": [],
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "TypeScript"
+      ],
+      "eligibility_concerns": [],
+      "explanation": "Not aligned with ML focus.",
+      "recommended_action": "Review requirements first"
+    }
+  }
+]

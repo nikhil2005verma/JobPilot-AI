@@ -1,0 +1,67 @@
+[
+  {
+    "provider_message_id": "mock-mail-1",
+    "subject": "Complete your registration - Junior Data Scientist",
+    "sender": "careers@kestrel-analytics.example",
+    "received_at": "2026-10-21T10:15",
+    "category": "Registration required",
+    "company": "Kestrel Analytics",
+    "role": "Data Scientist",
+    "summary": "Create your candidate profile on the careers portal to continue.",
+    "action": "Complete the registration process",
+    "deadline": "2026-10-25",
+    "web_link": "https://mail.google.com/mail/u/0/#inbox"
+  },
+  {
+    "provider_message_id": "mock-mail-2",
+    "subject": "We received your application",
+    "sender": "no-reply@northwind-labs.example",
+    "received_at": "2026-10-20T18:02",
+    "category": "Application confirmation",
+    "company": "Northwind Labs",
+    "role": "ML Engineer Intern",
+    "summary": "Your application has been received.",
+    "action": null,
+    "deadline": null,
+    "web_link": "https://mail.google.com/mail/u/0/#inbox"
+  },
+  {
+    "provider_message_id": "mock-mail-3",
+    "subject": "Interview invitation: AI Engineer",
+    "sender": "talent@orbit-systems.example",
+    "received_at": "2026-10-22T09:30",
+    "category": "Interview invitation",
+    "company": "Orbit Systems",
+    "role": "AI Engineer (Fresher)",
+    "summary": "Interview proposed for next week. Pick a slot.",
+    "action": "Choose an interview slot",
+    "deadline": "2026-10-27",
+    "web_link": "https://mail.google.com/mail/u/0/#inbox"
+  },
+  {
+    "provider_message_id": "mock-mail-4",
+    "subject": "Verify your email address",
+    "sender": "accounts@helix-health.example",
+    "received_at": "2026-10-19T13:40",
+    "category": "Verification request",
+    "company": "Helix Health AI",
+    "role": "Machine Learning Engineer",
+    "summary": "Verify your email to activate your candidate account.",
+    "action": "Verify email (open the link yourself)",
+    "deadline": "2026-10-24",
+    "web_link": "https://mail.google.com/mail/u/0/#inbox"
+  },
+  {
+    "provider_message_id": "mock-mail-5",
+    "subject": "Update on your application",
+    "sender": "hr@pinecone-retail.example",
+    "received_at": "2026-10-18T16:20",
+    "category": "Rejection",
+    "company": "Pinecone Retail",
+    "role": "Backend Developer",
+    "summary": "They have decided to move forward with other candidates.",
+    "action": null,
+    "deadline": null,
+    "web_link": "https://mail.google.com/mail/u/0/#inbox"
+  }
+]

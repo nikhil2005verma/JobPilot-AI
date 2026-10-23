@@ -1,0 +1,11 @@
+{
+  "skills": ["Python", "Machine Learning", "SQL", "Pandas", "PyTorch", "Streamlit", "FastAPI"],
+  "education": ["B.Tech Computer Science (2027)"],
+  "projects": ["Expense tracker MCP server", "LLM from scratch in PyTorch"],
+  "internships": ["Intern, non-profit foundation"],
+  "experience": [],
+  "certifications": [],
+  "preferred_roles": ["Machine Learning Engineer", "AI Engineer", "Data Scientist"],
+  "preferred_locations": ["Bangalore", "Noida", "Remote"],
+  "experience_level": "Fresher"
+}
